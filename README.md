@@ -1,5 +1,5 @@
 # Dual Prompt Tuning 
-PyTorch implement of DPT: [《Prompt Tuning based Contrastive Learning for Hierarchical Text Classification》](https://aclanthology.org/2024.findings-acl.723/)
+PyTorch implement of DPT: [《Prompt Tuning based Contrastive Learning for Hierarchical Text Classification》](https://aclanthology.org/2024.findings-acl.723/) (ACL 2024 Findings)
 
 
 ## Requirements
